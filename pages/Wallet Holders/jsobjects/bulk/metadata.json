@@ -1,0 +1,24 @@
+{
+  "unpublishedCollection": {
+    "name": "bulk",
+    "pageId": "Wallet Holders",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [
+      {
+        "name": "myVar1",
+        "value": "[]"
+      },
+      {
+        "name": "myVar2",
+        "value": "{}"
+      }
+    ],
+    "userPermissions": []
+  },
+  "id": "Wallet Holders_bulk",
+  "deleted": false,
+  "gitSyncId": "63e25fe3599b2410f04f056f_63e4a729869e0b7228502643"
+}

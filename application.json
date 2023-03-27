@@ -1,0 +1,118 @@
+{
+  "pages": [
+    {
+      "id": "Login",
+      "isDefault": true
+    },
+    {
+      "id": "Home page ",
+      "isDefault": false
+    },
+    {
+      "id": "Wallet Holders",
+      "isDefault": false
+    },
+    {
+      "id": "Wallet",
+      "isDefault": false
+    },
+    {
+      "id": "Transactions",
+      "isDefault": false
+    },
+    {
+      "id": "Partner Calls",
+      "isDefault": false
+    },
+    {
+      "id": "Incoming Calls",
+      "isDefault": false
+    },
+    {
+      "id": "Referal Info",
+      "isDefault": false
+    },
+    {
+      "id": "Card ",
+      "isDefault": false
+    },
+    {
+      "id": "Recipient ",
+      "isDefault": false
+    },
+    {
+      "id": "Image ",
+      "isDefault": false
+    },
+    {
+      "id": "Device ",
+      "isDefault": false
+    },
+    {
+      "id": "Failed Attempt ",
+      "isDefault": false
+    },
+    {
+      "id": "User Access ",
+      "isDefault": false
+    },
+    {
+      "id": "User Preference ",
+      "isDefault": false
+    },
+    {
+      "id": "One Time Password ",
+      "isDefault": false
+    },
+    {
+      "id": "Cin ",
+      "isDefault": false
+    },
+    {
+      "id": "Cache ",
+      "isDefault": false
+    },
+    {
+      "id": "Wire ",
+      "isDefault": false
+    },
+    {
+      "id": "Users",
+      "isDefault": false
+    },
+    {
+      "id": "Ntofications",
+      "isDefault": false
+    },
+    {
+      "id": "Registration",
+      "isDefault": false
+    },
+    {
+      "id": "Failed Attempt History",
+      "isDefault": false
+    },
+    {
+      "id": "Beneficiary",
+      "isDefault": false
+    }
+  ],
+  "viewMode": false,
+  "appIsExample": false,
+  "unreadCommentThreads": 0,
+  "color": "#D9E7FF",
+  "icon": "server-line",
+  "unpublishedAppLayout": {
+    "type": "FLUID"
+  },
+  "publishedAppLayout": {
+    "type": "FLUID"
+  },
+  "unpublishedCustomJSLibs": [],
+  "publishedCustomJSLibs": [],
+  "evaluationVersion": 2,
+  "applicationVersion": 2,
+  "collapseInvisibleWidgets": true,
+  "isManualUpdate": false,
+  "deleted": false
+}

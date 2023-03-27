@@ -1,0 +1,24 @@
+{
+  "unpublishedCollection": {
+    "name": "login_function",
+    "pageId": "Login",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [
+      {
+        "name": "myVar1",
+        "value": "[]"
+      },
+      {
+        "name": "myVar2",
+        "value": "{}"
+      }
+    ],
+    "userPermissions": []
+  },
+  "id": "Login_login_function",
+  "deleted": false,
+  "gitSyncId": "63e25fe3599b2410f04f056f_641338c677cbf24de03417be"
+}

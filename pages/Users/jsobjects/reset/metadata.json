@@ -1,0 +1,24 @@
+{
+  "unpublishedCollection": {
+    "name": "reset",
+    "pageId": "Users",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [
+      {
+        "name": "myVar1",
+        "value": "[]"
+      },
+      {
+        "name": "myVar2",
+        "value": "{}"
+      }
+    ],
+    "userPermissions": []
+  },
+  "id": "Users_reset",
+  "deleted": false,
+  "gitSyncId": "63e25fe3599b2410f04f056f_641419ee77cbf24de03417cd"
+}
